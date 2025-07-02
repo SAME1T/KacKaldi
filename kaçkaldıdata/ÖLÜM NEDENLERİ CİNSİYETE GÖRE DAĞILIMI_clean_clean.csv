@@ -1,0 +1,329 @@
+"Ölüm nedenlerinin cinsiyete göre dağılımı, 2009-2017",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 35,Unnamed: 36,Unnamed: 37,Unnamed: 38,Unnamed: 40,Unnamed: 41,Unnamed: 42,Unnamed: 43
+"Distribution of causes of death by gender, 2009-2017",Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",1008,-,-,238,-,-,15,-,-,235,-,-,101,-,-,-,123,-,-,-,20,-,-,-,20,-,-,-,1017,-,-,-
+UHS-10 Kodu,Ölüm nedeni,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",2009(1),-,-,2010(1),-,-,2011(1),-,-,2012(1),-,-,2013(1),-,-,-,2014(1),-,-,-,2015 (1),-,-,-,2016 (1),-,-,-,2017 (1) ,-,-,-
+"
+C00-D48",Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",Toplam,Erkek,Kadın,Toplam,Erkek,Kadın,Toplam,Erkek,Kadın,Toplam,Erkek,Kadın,Toplam,Erkek,Kadın,Bilinmeyen,Toplam,Erkek,Kadın,Bilinmeyen,Toplam,Erkek,Kadın,Bilinmeyen,Toplam,Erkek,Kadın,Bilinmeyen,Toplam,Erkek,Kadın,Bilinmeyen
+ICD-10 Code,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",Total,Male,Female,Total,Male,Female,Total,Male,Female,Total,Male,Female,Total,Male,Female,Unknown,Total,Male,Female,Unknown,Total,Male,Female,Unknown,Total,Male,Female,Unknown,Total,Male,Female,Unknown
+"
+C00-D48","Tüm nedenler
+All causes","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",281504,155928,125576,294501,161734,132767,312249,171734,140515,320967,175980,144987,360873,198882,161942,49,383676,208856,174747,73,397037,215977,180994,66,420189,228954,191170,65,423878,231075,192744,59
+A00-B99,"Enfeksiyon ve parazit hastalıkları
+Infectious and parasitic diseases","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",4549,2573,1976,4919,2732,2187,5042,2738,2304,5604,2957,2647,6371,3448,2923,-,6832,3656,3176,-,8328,4307,4021,-,8624,4494,4130,-,10248,5205,5042,1
+A09,Cause of death,"İshal ve gastroenterit, enfeksiyoz orijinli kabul edilen
+Diarhoea and gastenteritis of presumed infectious origin","Akut miyokard enfaktüsü
+Acute myocardial infarction",63,25,38,45,23,22,190,82,108,235,113,122,475,210,265,-,483,210,273,-,428,171,257,-,377,157,220,-,352,151,201,-
+"A15-A19, B90",Cause of death,"Tüberküloz
+Tuberculosis","Akut miyokard enfaktüsü
+Acute myocardial infarction",808,556,252,710,505,205,719,510,209,622,433,189,586,405,181,-,567,400,167,-,534,370,164,-,548,382,166,-,481,343,137,1
+A39,Cause of death,"Meningokok enfeksiyonları
+Meningococcal infection","Akut miyokard enfaktüsü
+Acute myocardial infarction",15,6,9,21,11,10,14,11,3,15,11,4,22,13,9,-,20,11,9,-,19,9,10,-,30,14,16,-,18,8,10,-
+A40-A41,Cause of death,"Septisemi
+Septicaemia","Akut miyokard enfaktüsü
+Acute myocardial infarction",2256,1176,1080,2740,1386,1354,2668,1343,1325,3345,1623,1722,3537,1831,1706,-,4064,2027,2037,-,5703,2876,2827,-,6079,3026,3053,-,7895,3889,4006,-
+B20-B24,Cause of death,"HIV hastalığı
+HIV disease","Akut miyokard enfaktüsü
+Acute myocardial infarction",44,38,6,54,43,11,41,35,6,61,53,8,70,54,16,-,78,66,12,-,91,71,20,-,85,75,10,-,92,70,22,-
+B15-B19,Cause of death,"Viral hepatitler
+Viral hepatitis","Akut miyokard enfaktüsü
+Acute myocardial infarction",726,411,315,728,426,302,849,478,371,759,445,314,935,544,391,-,808,481,327,-,707,383,324,-,622,365,257,-,563,317,246,-
+"
+C00-D48","İyi huylu ve kötü huylu tümörler (malign ve benign neoplazmlar)
+Neoplasms","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",59386,38736,20650,63930,41678,22252,67450,43755,23695,69270,44924,24346,76534,49901,26633,-,78074,50798,27276,-,79160,51256,27903,1,81647,52910,28737,-,81886,52900,28986,-
+C00-C97,Cause of death,"Kötü huylu tümörler (malign neoplazmlar)
+Malignant neoplasms","Akut miyokard enfaktüsü
+Acute myocardial infarction",58095,38023,20072,62589,40954,21635,65996,42948,23048,67777,44105,23672,74906,48996,25910,-,76475,49885,26590,-,77464,50275,27188,1,79970,51980,27990,-,80236,51967,28269,-
+C00-C14,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Dudak, ağız boşluğu, yutağın kötü huylu tümörü
+Malignant neoplasm of lip, oral cavity, pharynx",636,432,204,716,490,226,742,486,256,690,458,232,836,543,293,-,833,548,285,-,844,569,275,-,927,633,294,-,888,581,307,-
+C15,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Özofagusun kötü huylu tümörü
+Malignant neoplasm of oesophagus",623,353,270,687,401,286,758,424,334,666,403,263,818,492,326,-,826,493,333,-,817,471,346,-,857,495,362,-,844,506,338,-
+C16,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Midenin kötü huylu tümörü
+Malignant neoplasm of stomach",5018,3223,1795,5516,3604,1912,5806,3828,1978,5694,3672,2022,6639,4335,2304,-,6868,4518,2350,-,6700,4394,2305,1,6917,4560,2357,-,6715,4484,2231,-
+C18,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Kolonun kötü huylu tümörü
+Malignant neoplasm of colon",3644,2023,1621,4084,2265,1819,4425,2481,1944,4520,2546,1974,5148,2984,2164,-,5520,3144,2376,-,5741,3320,2421,-,5816,3384,2432,-,6117,3496,2621,-
+C19-C21,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Rektum ve anüsün kötü huylu tümörü
+Malignant neoplasm of rectum and anus",1008,612,396,1111,631,480,1173,699,474,1190,715,475,1297,747,550,-,1303,761,542,-,1226,740,486,-,1314,811,503,-,1294,772,522,-
+"
+C22",Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Karaciğer, karaciğer içi ve safra kanallarının kötü huylu tümörü
+Malignant neoplasm liver and the intrahepatic bile ducts",1995,1299,696,2335,1513,822,2439,1580,859,2472,1624,848,2843,1821,1022,-,2880,1870,1010,-,3038,1913,1125,-,3265,2087,1178,-,3281,2100,1181,-
+C25,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Pankreasın kötü huylu tümörü
+Malignant neoplasm of pancreas",2910,1738,1172,3243,1939,1304,3557,2064,1493,3616,2108,1508,4390,2550,1840,-,4345,2532,1813,-,4571,2667,1904,-,4788,2804,1984,-,4935,2835,2100,-
+"
+C32-C34",Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Gırtlak ve soluk borusu / bronş / akciğerin kötü huylu tümörü
+Malignant neoplasm of larynx and trachea/bronchus/lung",18254,15661,2593,19501,16817,2684,20454,17572,2882,21431,18249,3182,23427,20125,3302,-,23787,20311,3476,-,24154,20503,3651,-,24840,21050,3790,-,24861,21112,3749,-
+C43,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Derinin kötü huylu tümörü
+Malignant melanoma of skin",352,197,155,350,200,150,382,226,156,348,192,156,484,279,205,-,522,315,207,-,505,289,216,-,491,303,188,-,487,271,216,-
+C50,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Memenin kötü huylu tümörü
+Malignant neoplasm of breast",2631,74,2557,2927,77,2850,3191,63,3128,2931,79,2852,3613,59,3554,-,3830,80,3750,-,3983,107,3876,-,4068,87,3981,-,4129,72,4057,-
+C53,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Cerviks uterinin (uterus boyunun) kötü huylu tümörü
+Malignant neoplasm of cervix uteri",407,-,407,441,-,441,449,-,449,405,-,405,517,-,517,-,483,-,483,-,473,-,473,-,524,-,524,-,479,-,479,-
+C54-C55,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Uterusun diğer kötü huylu tümörleri
+Malignant neoplasm of other parts of uterus",583,-,583,693,-,693,662,-,662,720,-,720,867,-,867,-,867,-,867,-,921,-,921,-,961,-,961,-,967,-,967,-
+C56,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Yumurtalıkların kötü huylu tümörü
+Malignant neoplasm of ovary",995,-,995,1161,-,1161,1237,-,1237,1172,-,1172,1397,-,1397,-,1413,-,1413,-,1438,-,1438,-,1567,-,1567,-,1555,-,1555,-
+C61,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Prostatın kötü huylu tümörü
+Malignant neoplasm of prostate",2651,2651,-,2946,2946,-,3026,3026,-,2900,2900,-,3546,3546,-,-,3592,3592,-,-,3515,3515,-,-,3595,3595,-,-,3703,3703,-,-
+C64,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Böbreğin kötü huylu tümörü
+Malignant neoplasm of kidney",771,505,266,828,558,270,896,600,296,820,559,261,1066,724,342,-,1032,704,328,-,1039,720,319,-,1107,757,350,-,1109,765,344,-
+C67,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Mesanenin kötü huylu tümörü
+Malignant neoplasm of bladder",1396,1171,225,1571,1316,255,1617,1321,296,1646,1345,301,2015,1665,350,-,2028,1697,331,-,2166,1795,371,-,2146,1813,333,-,2266,1868,398,-
+C81-C96,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Lenfoid ve hematopoetik kötü huylu tümörü
+Malignant neoplasm of lymph./haematopoietic tissue",5023,2952,2071,5315,3134,2181,5450,3135,2315,5446,3152,2294,6151,3539,2612,-,6396,3798,2598,-,6368,3769,2599,-,6469,3753,2716,-,6444,3729,2715,-
+"
+D50-D89","Kan ve kan yapıcı organların hastalıkları ve immün sistemin  bazı bozuklukları
+Diseases of the blood(forming organs), immunodisorders","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",1238,591,647,1321,628,693,1379,638,741,1377,640,737,1487,685,802,-,1359,659,700,-,1294,639,655,-,1210,594,616,-,1222,593,629,-
+"
+E00-E90","Endokrin (iç salgı bezi), beslenme ve metabolizmayla ilgili  hastalıklar
+Endocrine, nutritional and metabolic diseases","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",17931,7485,10446,18993,8023,10970,19634,8259,11375,19255,8172,11083,20092,8551,11541,-,19430,8264,11166,-,19804,8386,11418,-,20731,8788,11942,1,20219,8736,11483,-
+E10-E14,Cause of death,"Diyabet hastalığı (şeker)
+Diabetes mellitus","Akut miyokard enfaktüsü
+Acute myocardial infarction",15250,6275,8975,16249,6760,9489,16700,6945,9755,16299,6876,9423,16399,6928,9471,-,15554,6612,8942,-,15968,6810,9158,-,16588,6945,9643,-,15852,6856,8996,-
+F00-F99,"Mental (Zihinsel) ve davranışsal bozukluklar
+Mental and behavioural disorders","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",498,298,200,515,279,236,512,259,253,626,355,271,558,284,274,-,541,252,289,-,571,288,283,-,531,244,287,-,537,257,280,-
+F00-F03,Cause of death,"Dementia
+Dementia","Akut miyokard enfaktüsü
+Acute myocardial infarction",109,43,66,111,33,78,148,54,94,224,96,128,289,118,171,-,290,120,170,-,246,115,131,-,196,81,115,-,210,77,133,-
+F10,Cause of death,"Alkol kullanımına bağlı (alkollü psikoz dahil)
+Alcohol abuse (including alcoholic psychosis)","Akut miyokard enfaktüsü
+Acute myocardial infarction",58,57,1,76,74,2,49,48,1,61,56,5,46,44,2,-,28,27,1,-,21,21,-,-,20,19,1,-,27,26,1,-
+"F11-F16, F18-F19",Cause of death,"İlaç bağımlılığı, toksikomani
+Drug dependence, toxicomania","Akut miyokard enfaktüsü
+Acute myocardial infarction",14,7,7,4,4,-,15,12,3,16,15,1,7,7,-,-,13,11,2,-,7,6,1,-,9,9,-,-,8,8,-,-
+F20-F29,Cause of death,"Şizofreni, şizotipal ve deluzyonel bozukluklar
+Schizophrenia, schizotypal and delusional disorders","Akut miyokard enfaktüsü
+Acute myocardial infarction",123,65,58,150,74,76,116,56,60,139,77,62,75,37,38,-,78,34,44,-,67,47,20,-,84,41,43,-,69,34,35,-
+F30-F39,Cause of death,"Ruhsal (duygusal) bozukluklar
+Mood (affective) disorders","Akut miyokard enfaktüsü
+Acute myocardial infarction",45,19,26,36,13,23,44,14,30,36,13,23,16,6,10,-,17,9,8,-,20,6,14,-,18,6,12,-,26,13,13,-
+G00-H95,"Sinir sistemi ve duyu organları hastalıkları
+Diseases of the nervous system and the sense organs","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",8284,4131,4153,10807,5095,5712,11621,5523,6098,13775,6339,7436,14710,6788,7922,-,16617,7608,9009,-,19114,8594,10520,-,20220,8982,11238,-,20623,9062,11560,1
+G00-G03,Cause of death,"Menenjit 
+Meningitis ","Akut miyokard enfaktüsü
+Acute myocardial infarction",147,86,61,128,65,63,150,77,73,142,64,78,138,83,55,-,147,84,63,-,138,70,68,-,175,93,82,-,136,79,57,-
+G30,Cause of death,"Alzheimer hastalığı
+Alzheimers disease","Akut miyokard enfaktüsü
+Acute myocardial infarction",3873,1598,2275,5333,2125,3208,6301,2618,3683,7701,3049,4652,8984,3685,5299,-,10423,4147,6276,-,12279,4905,7374,-,13269,5178,8091,-,13874,5371,8503,-
+G35,Cause of death,"Multipl skleroz
+Multiple sclerosis","Akut miyokard enfaktüsü
+Acute myocardial infarction",113,51,62,120,48,72,121,67,54,140,59,81,151,63,88,-,135,58,77,-,146,65,81,-,153,62,91,-,160,73,87,-
+G40-G41,Cause of death,"Epilepsi
+Epilepsy","Akut miyokard enfaktüsü
+Acute myocardial infarction",744,407,337,950,577,373,909,486,423,997,557,440,1036,557,479,-,1122,615,507,-,1220,676,544,-,1188,657,531,-,1218,639,578,1
+I00-I99,"Dolaşım sistemi hastalıkları
+Diseases of the circulatory system","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",112158,56447,55711,116712,57841,58871,121143,60142,61001,121740,60542,61198,143071,71020,72050,1,153649,75604,78044,1,159194,79216,79975,3,166069,82536,83532,1,167265,83392,83873,-
+I10-I15,Cause of death,"Hipertansif hastalıklar
+Hypertensive diseases","Akut miyokard enfaktüsü
+Acute myocardial infarction",12229,4624,7605,11263,4146,7117,11632,4249,7383,14369,5499,8870,18337,7077,11260,-,17631,6599,11032,-,15446,5866,9579,1,14537,5421,9116,-,14792,5534,9258,-
+I20-I25,Cause of death,"İskemik kalp hastalığı
+Ischaemic heart diseases","Akut miyokard enfaktüsü
+Acute myocardial infarction",39629,23830,15799,40905,24080,16825,41258,24355,16903,37989,22980,15009,55753,32636,23117,-,61290,35105,26184,1,64692,36902,27789,1,67412,38129,29283,-,66885,38040,28845,-
+I20,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Angina pektoris
+Angina pectoris",66,45,21,72,42,30,69,42,27,73,44,29,85,55,30,-,85,47,38,-,133,85,48,-,164,83,81,-,150,75,75,-
+I21-I22,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",26777,16562,10215,27607,16690,10917,26546,16156,10390,22942,14235,8707,37274,21763,15511,-,43082,24456,18626,-,45131,25575,19556,-,47527,26340,21187,-,47066,26090,20976,-
+I23-I25,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Diğer iskemik kalp hastalığı
+Other ischemic heart disease",12786,7223,5563,13226,7348,5878,14643,8157,6486,14974,8701,6273,18394,10818,7576,-,18123,10602,7520,1,19428,11242,8185,1,19721,11706,8015,-,19669,11875,7794,-
+"I30-I33,I39-I52",Cause of death,"Diğer kalp hastalığı
+Other heart diseases","Akut miyokard enfaktüsü
+Acute myocardial infarction",24876,11864,13012,26010,12167,13843,28997,13662,15335,31242,14702,16540,25293,11368,13924,1,28704,13138,15566,-,32411,15107,17303,1,37077,17414,19663,-,38930,18517,20413,-
+I50,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Kalp yetmezliği
+Heart failure",15896,6944,8952,16517,7211,9306,18254,7942,10312,18581,8031,10550,20015,8712,11302,1,21916,9748,12168,-,24223,10907,13315,1,25237,11366,13871,-,26127,11850,14277,-
+I60-I69,Cause of death,"Serebro-vasküler hastalık
+Cerebrovascular diseases","Akut miyokard enfaktüsü
+Acute myocardial infarction",30145,13560,16585,32945,14749,18196,32772,14734,18038,31307,14045,17262,35977,16219,19758,-,37716,16803,20913,-,38648,17442,21206,-,38959,17609,21349,1,38099,17175,20924,-
+J00-J99,"Solunum sistemi hastalıkları
+Diseases of the respiratory system","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",24996,15654,9342,24418,14971,9447,31384,19230,12154,31024,18785,12239,35331,21182,14149,-,40593,23738,16854,1,43820,25593,18226,1,49296,28482,20814,-,50224,28717,21506,1
+J00-J11,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",550,252,298,107,36,71,126,68,58,76,31,45,137,65,72,-,161,71,90,-,232,116,116,-,406,208,198,-,224,115,109,-
+J10-J11,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Grip
+Influenza",183,79,104,42,13,29,83,47,36,41,15,26,101,52,49,-,123,55,68,-,205,102,103,-,346,183,163,-,181,87,94,-
+J12-J18,Cause of death,"Pnömoni
+Pneumonia","Akut miyokard enfaktüsü
+Acute myocardial infarction",2740,1469,1271,3031,1567,1464,4188,2191,1997,4355,2266,2089,6694,3537,3157,-,9877,5112,4765,-,12695,6523,6172,-,16821,8591,8230,-,18705,9579,9125,1
+J40-J47,Cause of death,"Kronik alt solunum yolu hastalıkları
+Chronic lower respiratory diseases","Akut miyokard enfaktüsü
+Acute myocardial infarction",17552,11612,5940,17175,11119,6056,22146,14337,7809,20701,13289,7412,23806,15031,8775,-,25830,16047,9783,-,26276,16521,9755,-,27124,17089,10035,-,26614,16540,10074,-
+"J40-J44,J47",Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Kronik obstrüktif akciğer hastalığı ve bronşiektazi
+Chronic obstructive pulmonary disease and bronchiectasis",16323,11065,5258,15918,10585,5333,20380,13541,6839,19078,12593,6485,21894,14259,7635,-,23814,15281,8533,-,24229,15763,8466,-,25202,16399,8803,-,24822,15919,8903,-
+J45-J46,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Astım
+Asthma",1229,547,682,1257,534,723,1766,796,970,1623,696,927,1912,772,1140,-,2016,766,1250,-,2047,758,1289,-,1922,690,1232,-,1792,621,1171,-
+K00-K93,"Sindirim sistemi hastalıkları 
+Diseases of the digestive system","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",7089,3923,3166,7483,4010,3473,7916,4247,3669,8361,4440,3921,9503,5068,4435,-,9988,5212,4776,-,10103,5242,4861,-,10267,5350,4917,-,10187,5295,4892,-
+K25-K28,Cause of death,"Mide, on iki parmak bağırsak ve ince bağırsak ülseri
+Ulcer of stomach, duodenum and jejunum","Akut miyokard enfaktüsü
+Acute myocardial infarction",327,199,128,318,192,126,355,204,151,342,192,150,537,331,206,-,539,297,242,-,592,335,257,-,656,367,289,-,618,336,282,-
+K50-K51,Cause of death,"Crohn hastalığı ve ülseratif kolit
+Chrones disease and ulcerative colitis","Akut miyokard enfaktüsü
+Acute myocardial infarction",67,40,27,82,46,36,82,44,38,106,73,33,90,50,40,-,103,58,45,-,105,66,39,-,84,58,26,-,105,67,38,-
+K56,Cause of death,"Paralitik ileus ve barsak obstrüksiyonu (hernia olmadan)
+Paraliytic ileus and intestinal obstruction without hernia","Akut miyokard enfaktüsü
+Acute myocardial infarction",500,288,212,541,282,259,633,349,284,633,323,310,755,393,362,-,908,474,434,-,971,517,454,-,959,508,451,-,1017,547,470,-
+"K70, K73-K74",Cause of death,"Kronik karaciğer hastalığı
+Chronic liver disease","Akut miyokard enfaktüsü
+Acute myocardial infarction",1613,982,631,1701,1056,645,1740,1068,672,1933,1167,766,2067,1257,810,-,2183,1295,888,-,2244,1338,906,-,2348,1368,980,-,2287,1325,962,-
+K85-K87,Cause of death,"Pankreas hastalıkları
+Diseases of pancreas","Akut miyokard enfaktüsü
+Acute myocardial infarction",372,167,205,446,210,236,473,209,264,506,218,288,628,304,324,-,688,305,383,-,684,289,395,-,687,315,372,-,677,299,378,-
+L00-L99,"Deri ve deri altı dokunun hastalıkları
+Diseases of the skin and subcutaneous tissue","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",182,69,113,190,87,103,227,91,136,219,94,125,270,109,161,-,309,127,182,-,255,85,170,-,219,75,144,-,247,89,158,-
+M00-M99,"Kas-iskelet sistemi ve bağ dokusunun hastalıkları
+Diseases of the musculoskeletal system/connective tissue","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",1353,506,847,1361,463,898,1285,457,828,1357,510,847,1130,391,739,-,1141,393,748,-,1156,433,723,-,1164,424,740,-,1157,423,734,-
+"M05-M06, M15-M19",Cause of death,"Romatoid artrit ve osteoartroz
+Rheumatoid arthritis and osteoarthrosis","Akut miyokard enfaktüsü
+Acute myocardial infarction",248,63,185,238,71,167,283,72,211,251,78,173,243,77,166,-,264,84,180,-,253,95,158,-,241,74,167,-,235,71,164,-
+N00-N99,"Genitoüriner sistem hastalıkları
+Diseases of the genitourinary system","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",7713,4106,3607,8725,4551,4174,10094,5260,4834,10548,5450,5098,10806,5549,5257,-,11985,6027,5958,-,13439,6755,6684,-,15234,7582,7652,-,15547,7793,7754,-
+N00-N29,Cause of death,"Böbrek ve üreter hastalıkları
+Diseases of kidney and ureter","Akut miyokard enfaktüsü
+Acute myocardial infarction",6945,3595,3350,7842,3986,3856,9199,4690,4509,9433,4790,4643,9534,4796,4738,-,10622,5277,5345,-,12018,5977,6041,-,13772,6798,6974,-,14058,6957,7101,-
+N00-N16,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Glomerüler ve renal tübülo-interstisyel hastalıklar
+Glomerular and renal tubulo-interstitial diseases",136,76,60,155,83,72,174,94,80,235,133,102,244,125,119,-,250,132,118,-,194,92,102,-,205,95,110,-,167,87,80,-
+N17-N19,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Böbrek yetmezliği
+Renal failure",6682,3444,3238,7580,3854,3726,8931,4544,4387,9080,4603,4477,9178,4617,4561,-,10275,5098,5177,-,11734,5837,5897,-,13479,6659,6820,-,13818,6832,6986,-
+N40,Cause of death,"Prostat hiperplazisi
+Hyperplasia of prostate","Akut miyokard enfaktüsü
+Acute myocardial infarction",269,269,-,288,288,-,280,280,-,247,247,-,277,277,-,-,245,245,-,-,247,247,-,-,234,234,-,-,274,274,-,-
+N70-N77,Cause of death,"Kadın pelvik organların iltihabi hastalıkları
+Inflammatory diseases of female pelvic organs","Akut miyokard enfaktüsü
+Acute myocardial infarction",18,-,18,15,-,15,18,-,18,31,-,31,39,-,39,-,29,-,29,-,14,-,14,-,20,-,20,-,32,-,32,-
+O00-O99,"Gebelik, doğurma ve lohusalık halinin komplikasyonları
+Complications of pregnancy, childbirth and puerperium","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",37,-,37,46,-,46,58,-,58,55,-,55,306,-,306,-,273,-,273,-,220,-,220,-,251,-,251,-,246,-,246,-
+"
+O10-O48",Cause of death,"Ağırlıklı olarak antenatal dönemde meydana gelen gebelik komplikasyonları
+Complications of pregnancy predominantly in the antenatal period","Akut miyokard enfaktüsü
+Acute myocardial infarction",16,-,16,10,-,10,20,-,20,13,-,13,57,-,57,-,45,-,45,-,40,-,40,-,39,-,39,-,38,-,38,-
+"
+O60-O75",Cause of death,"Ağırlıklı olarak doğum eylemi ve doğum sırasında meydana gelen gebelik komplikasyonları 
+Complications of pregnancy predominantly during labour and delivery","Akut miyokard enfaktüsü
+Acute myocardial infarction",19,-,19,17,-,17,15,-,15,23,-,23,49,-,49,-,47,-,47,-,20,-,20,-,49,-,49,-,33,-,33,-
+P00-P96,"Perinatal dönemden kaynaklanan belirli durumlar
+Certain conditions originating in the perinatal period","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",7010,3904,3106,5257,2940,2317,4983,2794,2189,5573,3077,2496,6870,3894,2958,18,8010,4512,3468,30,8078,4550,3505,23,8228,4596,3603,29,8087,4578,3485,24
+P07,Cause of death,"Kısa gebelik ve düşük doğum ağırlığı ile ilgili bozukluklar
+Disorders related to short gestation and low birth weight","Akut miyokard enfaktüsü
+Acute myocardial infarction",508,285,223,391,195,196,355,196,159,603,332,271,644,367,274,3,823,471,350,2,748,423,324,1,643,338,303,2,636,371,261,4
+Q00-Q99,"Konjenital bozukluk ve kromozomla ilgili anomaliler
+Congenital malformations and chromosomal abnormalities","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",3861,1999,1862,3889,2001,1888,4240,2181,2059,3930,2039,1891,4960,2572,2364,24,5453,2908,2513,32,5655,3001,2624,30,5590,2939,2627,24,5288,2771,2496,21
+Q00-Q07,Cause of death,"Sinir sisteminin konjenital bozuklukları
+Congenital malformations of the nervous system","Akut miyokard enfaktüsü
+Acute myocardial infarction",575,253,322,523,240,283,599,275,324,484,218,266,723,338,383,2,891,443,447,1,910,432,474,4,943,452,489,2,922,402,518,2
+Q20-Q28,Cause of death,"Dolaşım sisteminin konjenital bozuklukları
+Congenital malformations of the circulatory system","Akut miyokard enfaktüsü
+Acute myocardial infarction",1661,914,747,1765,909,856,1893,999,894,1754,929,825,2228,1215,1011,2,2406,1301,1100,5,2560,1434,1123,3,2500,1348,1151,1,2293,1262,1028,3
+"
+R00-R99","Semptomlar, belirtiler ve anormal bulgular, kötü tanımlanmış nedenler
+Symptoms, signs, abnormal findings, ill-defined causes","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",13930,7786,6144,12954,7346,5608,12591,7221,5370,15080,8293,6787,8465,4542,3918,5,9267,4674,4587,6,7910,4194,3711,5,9435,5130,4297,8,9362,5275,4079,8
+R95,Cause of death,"Ani bebek ölümü sendromu
+Sudden infant death syndrome","Akut miyokard enfaktüsü
+Acute myocardial infarction",52,24,28,257,142,115,145,85,60,88,41,47,87,45,41,1,123,68,54,1,382,203,177,2,422,226,193,3,364,186,176,2
+R96-R99,Cause of death,"Bilinmeyen ve tanımlanmamış nedenler
+Unknown and unspecified causes","Akut miyokard enfaktüsü
+Acute myocardial infarction",8950,5671,3279,7349,4917,2432,6954,4710,2244,7390,5055,2335,4747,2916,1827,4,5011,2713,2293,5,4364,2449,1912,3,5337,3104,2228,5,4888,2969,1914,5
+V01-Y89,"Dışsal yaralanma nedenleri ve zehirlenmeler
+External causes of injury and poisoning","Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",11289,7720,3569,12981,9089,3892,12690,8939,3751,13173,9363,3810,20409,14898,5510,1,20155,14424,5728,3,18936,13438,5495,3,21473,15828,5643,2,21533,15989,5541,3
+V01-X59,Cause of death,"Kazalar
+Accidents","Akut miyokard enfaktüsü
+Acute myocardial infarction",9093,6092,3001,10110,6984,3126,10438,7277,3161,10629,7427,3202,15605,11141,4463,1,15853,11098,4752,3,15604,10907,4695,2,17184,12488,4694,2,16875,12371,4501,3
+V01-V99,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Taşıma kazaları
+Transport accidents",3954,3015,939,4768,3660,1108,4450,3421,1029,4113,3193,920,6972,5377,1595,-,6415,4888,1527,-,6708,5079,1628,1,6966,5447,1518,1,6902,5273,1628,1
+W00-W19,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Kaza sonucu düşmeler
+Accidental falls",2477,1183,1294,2491,1247,1244,2614,1297,1317,2707,1343,1364,3694,1927,1767,-,4076,2061,2014,1,4122,2163,1959,-,3878,1980,1898,-,3777,2050,1727,-
+X40-X49,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Kaza sonucu zehirlenmeler
+Accidental poisoning",216,119,97,238,136,102,246,143,103,295,161,134,642,460,182,-,1135,898,237,-,817,600,217,-,1250,1008,242,-,1501,1238,263,-
+X60-X84,Cause of death,"İntihar ve kasıtlı kendine zarar verme
+Suicide and intentional self-harm","Akut miyokard enfaktüsü
+Acute myocardial infarction",1103,843,260,1524,1148,376,1148,850,298,1450,1072,378,1867,1392,475,-,1617,1209,408,-,1532,1135,397,-,1856,1422,434,-,2729,2127,602,-
+X85-Y09,Cause of death,"Cinayet, saldırı
+Homicide, assault","Akut miyokard enfaktüsü
+Acute myocardial infarction",881,703,178,1083,867,216,904,739,165,944,791,153,1342,1100,242,-,1200,991,209,-,1082,869,213,-,1436,1180,256,-,1453,1180,273,-
+"TÜİK, Ölüm Nedeni İstatistikleri",Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",1008,-,-,238,-,-,15,-,-,235,-,-,101,-,-,-,123,-,-,-,20,-,-,-,20,-,-,-,1017,-,-,-
+"TurkStat, Causes of Death Statistics",Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",1008,-,-,238,-,-,15,-,-,235,-,-,101,-,-,-,123,-,-,-,20,-,-,-,20,-,-,-,1017,-,-,-
+"(1) Tablodaki değerler, ilgili yıllarda revize edilmiş değerlerin son halini göstermektedir.",Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",1008,-,-,238,-,-,15,-,-,235,-,-,101,-,-,-,123,-,-,-,20,-,-,-,20,-,-,-,1017,-,-,-
+(1) Figures in the table indicate the final state of the revised values in the respective years.,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",1008,-,-,238,-,-,15,-,-,235,-,-,101,-,-,-,123,-,-,-,20,-,-,-,20,-,-,-,1017,-,-,-
+- Bilgi yoktur.,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",1008,-,-,238,-,-,15,-,-,235,-,-,101,-,-,-,123,-,-,-,20,-,-,-,20,-,-,-,1017,-,-,-
+- Denotes magnitute null.,Cause of death,"Akut üst solunum yolu enfeksiyonları ve grip 
+Acute upper respiratory infections and influenza","Akut miyokard enfaktüsü
+Acute myocardial infarction",1008,-,-,238,-,-,15,-,-,235,-,-,101,-,-,-,123,-,-,-,20,-,-,-,20,-,-,-,1017,-,-,-
