@@ -118,4 +118,4 @@ Bu proje eğitim amaçlıdır ve MIT lisansı altında dağıtılmaktadır.
 
 ## ⚠️ Uyarı
 
-**Bu uygulama sadece eğlence ve eğitim amaçlıdır.** Gerçek sağlık tavsiyeleri için doktorunuza başvurun. Uygulamanın tahminleri bilimsel kesinlik taşımaz. 
+**Bu uygulama sadece eğlence ve eğitim amaçlıdır.** Gerçek sağlık tavsiyeleri için doktorunuza başvurun. Uygulamanın tahminleri bilimsel kesinlik taşımaz.
